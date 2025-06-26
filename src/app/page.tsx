@@ -354,9 +354,8 @@ export default function Home() {
               About Pixel Perfect Designs
             </h2>
             <div className="section-divider"></div>
-            <p style={{fontSize: '1.2rem', color: '#64748b', maxWidth: '700px', margin: '0 auto'}}>
-              I specialize in creating beautiful, functional websites that perfectly capture 
-              your brand's vision with clean code, modern design patterns, and pixel-perfect attention to detail.
+            <p style={{fontSize: '1.2rem', color: '#64748b', maxWidth: '700px', margin: '0 auto'}}>              I specialize in creating beautiful, functional websites that perfectly capture 
+              your brand&apos;s vision with clean code, modern design patterns, and pixel-perfect attention to detail.
             </p>
           </div>
             <div className="about-grid">
@@ -419,9 +418,8 @@ export default function Home() {
               <div className="project-image" style={{background: 'linear-gradient(135deg, #22d3ee 0%, #3b82f6 100%)'}}>
                 🐠
               </div>
-              <div style={{padding: '32px'}}>
-                <h3 style={{fontSize: '1.6rem', fontWeight: 'bold', marginBottom: '16px'}} className="gradient-text">
-                  Keith's Aquascaping
+              <div style={{padding: '32px'}}>                <h3 style={{fontSize: '1.6rem', fontWeight: 'bold', marginBottom: '16px'}} className="gradient-text">
+                  Keith&apos;s Aquascaping
                 </h3>
                 <p style={{color: '#64748b', marginBottom: '24px', lineHeight: 1.6}}>
                   Professional aquarium services website featuring modern design, responsive layout, 
@@ -493,13 +491,11 @@ export default function Home() {
       {/* Contact Section */}
       <section id="contact" style={{padding: '100px 0', background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)'}}>
         <div className="container">
-          <div style={{textAlign: 'center', marginBottom: '80px'}}>
-            <h2 style={{fontSize: '3rem', fontWeight: 'bold', marginBottom: '24px', color: 'white'}}>
-              Let's Work Together
+          <div style={{textAlign: 'center', marginBottom: '80px'}}>            <h2 style={{fontSize: '3rem', fontWeight: 'bold', marginBottom: '24px', color: 'white'}}>
+              Let&apos;s Work Together
             </h2>
-            <div style={{height: '2px', background: 'white', margin: '0 auto', width: '100px', borderRadius: '2px', marginBottom: '24px'}}></div>
-            <p style={{fontSize: '1.2rem', color: 'rgba(255, 255, 255, 0.9)'}}>
-              Ready to bring your vision to life? Let's discuss your project and create something extraordinary!
+            <div style={{height: '2px', background: 'white', margin: '0 auto', width: '100px', borderRadius: '2px', marginBottom: '24px'}}></div>            <p style={{fontSize: '1.2rem', color: 'rgba(255, 255, 255, 0.9)'}}>
+              Ready to bring your vision to life? Let&apos;s discuss your project and create something extraordinary!
             </p>
           </div>
             <div style={{maxWidth: '800px', margin: '0 auto'}}>
